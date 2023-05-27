@@ -6,6 +6,10 @@
 
 **Note:** This test document is specific to the WhatsApp mobile app and does not cover the website version.
 
+![WhatsApp Audio Messaging](image.png)
+
+Image Source: [digit.in](https://www.digit.in/news/apps/whatsapp-update-allows-consecutive-audio-message-playback-on-android-48308.html)
+
 ## Test Cases:
 | Step # | Test Step | Expected Result | Priority |
 | ------ | --------- | --------------- | -------- |
