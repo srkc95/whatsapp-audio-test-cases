@@ -25,7 +25,7 @@
 | 14     | Record an audio message while the device is connected to an external audio output (e.g., Bluetooth headphones). | Verify that the audio message is recorded via the external audio source. | 2 |
 | 15     | Record an audio message while the device is in Airplane mode. | Verify the user is able to record the message. Verify a "resend" icon is displayed along with the voice message. | 2 |
 | 16     | Record an audio message while receiving an incoming voice/video call. | Verify that the app is pausing the recording and notifies the user about the incoming call. | 2 |
-| 17     | Record an audio message while the device is in Do Not Disturb mode. | Verify the audio message is sent to the recipient. | 
+| 17     | Record an audio message while the device is in Do Not Disturb mode. | Verify the audio message is sent to the recipient. | 3 |
 
 | # | Exploratory Testing Considerations |
 | --- | --- |
