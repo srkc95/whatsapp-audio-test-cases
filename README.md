@@ -8,7 +8,6 @@
 
 ![WhatsApp Audio Messaging](image.jpg)
 
-Image Source: [digit.in](https://www.digit.in/news/apps/whatsapp-update-allows-consecutive-audio-message-playback-on-android-48308.html)
 
 ## Test Cases:
 | Step # | Test Step | Expected Result | Priority |
