@@ -6,7 +6,7 @@
 
 **Note:** This test document is specific to the WhatsApp mobile app and does not cover the website version.
 
-You can learn more about this project from this ![Medium Blog](https://sreekanth-chaliyeduth.medium.com/manual-testing-case-study-testing-whatsapps-audio-messaging-feature-791428d47c05) article. 
+You can learn more about this project from this [Medium Blog](https://sreekanth-chaliyeduth.medium.com/manual-testing-case-study-testing-whatsapps-audio-messaging-feature-791428d47c05) article. 
 
 ![WhatsApp Audio Messaging](image.jpg)
 
